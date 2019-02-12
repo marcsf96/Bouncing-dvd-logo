@@ -53,7 +53,6 @@ while not endProgram:
 
     screen.fill((0))
 
-    #logo_img.fill((R,G,B)) #here is the problem I can not solve
     logo(x, y, (R, G, B))
 
     display.update()
